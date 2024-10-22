@@ -1,0 +1,8 @@
+<resources >
+
+    <style name="Base.Theme.MyCaculator" parent="Theme.AppCompat.NoActionBar">
+    </style>
+
+
+    <style name="Theme.MyCaculator" parent="Base.Theme.MyCaculator" />
+</resources>
